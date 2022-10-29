@@ -1,0 +1,17 @@
+html,
+body {
+    padding: 1%;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvTcY4ag_z9atuU-7SPy2aRF0dls5446nApH3-6qpCdF4sdXTgqR9cEg9GjMLptMruMug&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Bubblegum Sans', sans-serif;
+}
+
+h1 {
+    color: red;
+}
